@@ -1,0 +1,2 @@
+variable "ORG" {}
+variable "ENV" {}
